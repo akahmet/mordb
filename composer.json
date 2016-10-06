@@ -1,0 +1,16 @@
+{
+    "name": "darrunafi/mordb",
+    "description": "Sql query builder for pdo",
+    "type": "library",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "darrunafi",
+            "email": "k@darrunafi.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=5.3"
+	}
+}
