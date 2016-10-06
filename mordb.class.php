@@ -1,6 +1,6 @@
 <?php
 /**
-* morDb class
+* mordb class
 */
 namespace dun;
 
